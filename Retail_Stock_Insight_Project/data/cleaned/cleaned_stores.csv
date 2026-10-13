@@ -1,0 +1,17 @@
+store,city,store_type,customer_count,region
+ST001,Delhi,Supermarket,684,North
+ST002,Lucknow,Express,517,North
+ST003,Jaipur,Supermarket,335,North
+ST004,Chandigarh,Express,252,North
+ST005,Chennai,Supermarket,732,South
+ST006,Bengaluru,Hypermarket,785,South
+ST007,Hyderabad,Supermarket,565,South
+ST008,Coimbatore,Express,465,South
+ST009,Kolkata,Supermarket,489,East
+ST010,Patna,Supermarket,813,East
+ST011,Bhubaneswar,Hypermarket,250,East
+ST012,Ranchi,Hypermarket,607,East
+ST013,Mumbai,Express,393,West
+ST014,Pune,Supermarket,666,West
+ST015,Ahmedabad,Supermarket,232,West
+ST016,Nagpur,Express,927,West

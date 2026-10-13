@@ -1,0 +1,6 @@
+issue,affected_records,percentage_affected,correction_method,remaining_issues
+Invalid or zero/negative quantities,819,1.58,Removed non-positive quantities before analysis.,Only valid positive quantities remain.
+Invalid selling prices,1073,2.07,Removed non-positive values and retained valid prices.,All retained transaction prices are positive.
+Missing product details,0,0.0,Standardized categories and filled missing values using defensible defaults.,Product records are complete enough for analysis.
+Missing weather values,98,3.4,Retained Unknown labels instead of estimating uncertain weather.,Weather values are explicitly labeled when missing.
+Inventory arithmetic mismatch,11329,3.93,Reconciled closing stock using the valid inventory equation when evidence justified the correction.,Inventory arithmetic is consistent where possible.

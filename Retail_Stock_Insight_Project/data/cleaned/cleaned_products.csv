@@ -1,0 +1,101 @@
+product,category,brand,price,shelf_life,supplier
+P001,Groceries,HomeEase,144.95,138,Essentials Co
+P002,Home Care,Unknown Brand,203.79,546,PureHome
+P003,Electronics,SignalEdge,118.77,212,Unknown Supplier
+P004,Home Care,HomeGlow,160.16,414,Lavish Goods
+P005,Home Care,HomeGlow,136.91,405,CleanSupply
+P006,Beverages,MunchHub,102.96,459,FoodLine
+P007,Household,HomeEase,96.43,246,HomeBrite
+P008,Groceries,NaturePlus,72.38,480,Delta Foods
+P009,Household,HomeEase,209.8,402,HomeBrite
+P010,Beverages,PrimeBrew,172.7,50,Drift Bottlers
+P011,Groceries,Aarav,146.14,404,FreshFlow
+P012,Household,HouseMates,190.64,346,Essentials Co
+P013,Beverages,PrimeBrew,26.38,200,HydroPeak
+P014,Home Care,HomeGlow,129.12,585,PureHome
+P015,Home Care,AquaPure,94.54,62,PureHome
+P016,Snacks,CrunchyBite,169.51,312,FoodLine
+P017,Snacks,SnackNest,239.41,257,SnackWorks
+P018,Groceries,FreshMart,42.49,462,FreshFlow
+P019,Beverages,PrimeBrew,154.28,120,Nice Sip
+P020,Snacks,CrunchyBite,139.35,123,Crunch Trade
+P021,Personal Care,PureTouch,116.41,382,SkinPlus
+P022,Groceries,FreshMart,279.64,235,FreshFlow
+P023,Snacks,SnackNest,281.62,178,SnackWorks
+P024,Snacks,MunchHub,140.23,442,SnackWorks
+P025,Groceries,Aarav,141.97,535,FreshFlow
+P026,Personal Care,GlowCare,175.55,336,CareLink
+P027,Household,DailyUse,213.69,454,Essentials Co
+P028,Snacks,SnackNest,176.87,83,Crunch Trade
+P029,Groceries,NaturePlus,29.32,262,Delta Foods
+P030,Personal Care,Wellness,57.31,409,CareLink
+P031,Beverages,PrimeBrew,269.63,125,Nice Sip
+P032,Personal Care,Wellness,178.73,195,CareLink
+P033,Electronics,SignalEdge,230.9,300,TechSource
+P034,Beverages,QuenchCo,151.47,277,Nice Sip
+P035,Beverages,SipMore,90.62,295,Nice Sip
+P036,Beverages,QuenchCo,137.38,189,Drift Bottlers
+P037,Household,DailyUse,56.15,531,HomeBrite
+P038,Groceries,Aarav,200.85,96,Delta Foods
+P039,Snacks,MunchHub,227.07,437,SnackWorks
+P040,Electronics,VoltTech,80.62,162,TechSource
+P041,Beverages,SipMore,243.7,237,HydroPeak
+P042,Personal Care,PureTouch,277.19,385,CareLink
+P043,Beverages,PrimeBrew,272.6,173,Drift Bottlers
+P044,Groceries,FreshMart,136.35,572,FreshFlow
+P045,Electronics,VoltTech,260.3,449,TechSource
+P046,Beverages,PrimeBrew,103.93,42,Nice Sip
+P047,Snacks,SnackNest,43.69,239,FoodLine
+P048,Home Care,AquaPure,272.81,560,CleanSupply
+P049,Groceries,FreshMart,59.69,495,FreshFlow
+P050,Snacks,CrunchyBite,255.88,55,SnackWorks
+P051,Personal Care,PureTouch,282.34,465,WellCorp
+P052,Groceries,Aarav,21.79,127,Delta Foods
+P053,Groceries,FreshMart,51.14,409,Delta Foods
+P054,Snacks,SnackNest,176.06,263,SnackWorks
+P055,Household,DailyUse,219.0,430,DailyStock
+P056,Groceries,FreshMart,270.3,75,AgriSource
+P057,Personal Care,GlowCare,198.3,303,CareLink
+P058,Personal Care,PureTouch,269.55,309,CareLink
+P059,Beverages,QuenchCo,46.8,385,Nice Sip
+P060,Beverages,QuenchCo,280.82,122,HydroPeak
+P061,Electronics,SmartLife,145.13,480,VoltMarts
+P062,Groceries,NaturePlus,47.69,191,FreshFlow
+P063,Household,HouseMates,162.37,160,DailyStock
+P064,Household,HouseMates,182.05,192,Essentials Co
+P065,Personal Care,PureTouch,195.33,268,SkinPlus
+P066,Beverages,PrimeBrew,85.41,180,Drift Bottlers
+P067,Snacks,MunchHub,46.64,487,FoodLine
+P068,Snacks,CrunchyBite,57.76,137,FoodLine
+P069,Personal Care,PureTouch,268.5,110,WellCorp
+P070,Personal Care,GlowCare,59.78,285,CareLink
+P071,Groceries,NaturePlus,65.5,61,FreshFlow
+P072,Snacks,CrunchyBite,203.15,479,Crunch Trade
+P073,Personal Care,PureTouch,256.0,312,SkinPlus
+P074,Groceries,NaturePlus,67.37,527,Delta Foods
+P075,Home Care,HomeGlow,131.22,349,CleanSupply
+P076,Personal Care,GlowCare,160.46,530,CareLink
+P077,Household,DailyUse,269.56,59,DailyStock
+P078,Household,DailyUse,263.52,164,DailyStock
+P079,Household,HouseMates,192.76,466,Essentials Co
+P080,Groceries,NaturePlus,163.81,210,AgriSource
+P081,Household,HomeEase,122.74,289,DailyStock
+P082,Home Care,HomeGlow,56.02,272,Lavish Goods
+P083,Beverages,SipMore,117.96,160,HydroPeak
+P084,Personal Care,Wellness,121.21,132,SkinPlus
+P085,Personal Care,PureTouch,267.25,561,SkinPlus
+P086,Personal Care,Wellness,163.64,567,SkinPlus
+P087,Snacks,CrunchyBite,162.9,480,FoodLine
+P088,Personal Care,Wellness,217.89,49,CareLink
+P089,Snacks,SnackNest,53.93,512,FoodLine
+P090,Groceries,Aarav,215.39,355,Delta Foods
+P091,Electronics,SmartLife,278.82,106,TechSource
+P092,Snacks,MunchHub,230.87,588,FoodLine
+P093,Electronics,VoltTech,178.5,171,TechSource
+P094,Snacks,CrunchyBite,64.59,102,Crunch Trade
+P095,Beverages,SipMore,160.16,290,Nice Sip
+P096,Household,HomeEase,151.87,161,Essentials Co
+P097,Electronics,SmartLife,49.85,97,SmartCore
+P098,Snacks,CrunchyBite,131.86,546,FoodLine
+P099,Snacks,MunchHub,262.36,216,FoodLine
+P100,Personal Care,PureTouch,117.06,328,CareLink
